@@ -1,0 +1,14 @@
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\bin\Debug\UrnaCS1.exe.config
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\bin\Debug\UrnaCS1.exe
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\bin\Debug\UrnaCS1.pdb
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.csprojAssemblyReference.cache
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.Properties.Resources.resources
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.csproj.GenerateResource.cache
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.exe
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.pdb
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.Urna.resources
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.ConfirmarPopUp.resources
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\bin\Debug\BancoDeDadosJSON.dll
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\bin\Debug\BancoDeDadosJSON.pdb
+C:\Users\Camila\Desktop\ProjetoUrna\UrnaCS1\UrnaCS1\obj\Debug\UrnaCS1.csproj.CopyComplete
