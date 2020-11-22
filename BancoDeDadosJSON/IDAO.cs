@@ -7,6 +7,7 @@ namespace BancoDeDadosJSON
     public interface IDAO<T>
     {        
         object Buscar(object id);
+        
         List<T> Buscar();
         
     }
